@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EashanKaushik
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pything and Machine Learning
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me Eashank16@gmail.com

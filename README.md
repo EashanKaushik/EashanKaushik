@@ -1,9 +1,8 @@
-## Hi there, I'm <a href="" target="_blank">Eashan Kaushik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hi there, I'm <a href="https://eashankaushik.github.io/" target="_blank">Eashan Kaushik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eashan-kaushik/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eashankaushik.github.io/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@eashank16)
 
 I am a current Graduate Student at New York University pursuing a degree in Computer Science
 
@@ -37,7 +36,6 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 ![OpenCV](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bbc8a)
 ![Pandas](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
 ![Numpy](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 ![scikit-learn](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![Docker Engine](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
@@ -54,6 +52,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 ## 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EashanKaushik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide=Jupyter Notebook" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EashanKaushik&langs_count=8&theme=tokyonight"/>
+  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EashanKaushik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EashanKaushik&theme=tokyonight&hide=jupyter%20notebook,HTML"/>
 </p>

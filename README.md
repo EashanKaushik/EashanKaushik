@@ -35,6 +35,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 ![Pytorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![OpenCV](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bbc8a)
 ![Pandas](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 ![Numpy](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
 ![scikit-learn](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![Docker Engine](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
@@ -52,7 +53,6 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 ## 📈 **My GitHub Stats:**
 <p>
-  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   <img src="https://github-readme-stats.vercel.app/api?username=EashanKaushik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EashanKaushik&theme=tokyonight&hide=jupyter%20notebook,HTML"/>
 </p>

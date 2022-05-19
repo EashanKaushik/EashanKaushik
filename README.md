@@ -4,6 +4,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eashankaushik.github.io/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@eashank16)
 
+<p align="center">
+<img  alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+</p>
+
 I am a current Graduate Student at New York University pursuing a degree in Computer Science
 
 As an engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
@@ -35,12 +39,12 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 ![Pytorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![OpenCV](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bbc8a)
 ![Pandas](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 ![Numpy](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
 ![scikit-learn](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![Docker Engine](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![VMWare](https://img.shields.io/badge/Virtualization-VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=2bbc8a)
+
 
 ## Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=EashanKaushik.EashanKaushik)
 
@@ -49,7 +53,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 - ✍️ I actively write blogs on Medium
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me on Eashank16@gmail.com
-- 📝 You can check out my experience on [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 You can check out my experience on [Resume](https://gkassym.netlify.app/Resume.pdf)
 
 ## 📈 **My GitHub Stats:**
 <p>

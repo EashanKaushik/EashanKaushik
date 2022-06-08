@@ -53,7 +53,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 - ✍️ I actively write blogs on Medium
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me on Eashank16@gmail.com
-- 📝 You can check out my experience on [Resume](https://gkassym.netlify.app/Resume.pdf)
+- 📝 You can check out my experience on [Resume]()
 
 ## 📈 **My GitHub Stats:**
 <p>

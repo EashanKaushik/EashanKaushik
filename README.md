@@ -7,9 +7,11 @@
 <img  alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
 
-I am a current Graduate Student at New York University pursuing a degree in Computer Science
+As an Associate Specialist Solutions Architect AI/ML at Amazon Web Services, my focus is on crafting cutting-edge generative AI solutions that leverage my expertise in Artificial Intelligence. Educated at NYU Tandon School of Engineering with a Master's in Computer Science, I've transitioned from academia to industry, applying theoretical knowledge to real-world scenarios.
 
-As an engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+At AWS, I partner with cross-functional teams to innovate and deliver AI/ML architectures that drive efficiency and growth. My foundational skills in Deep Learning and AWS underpin my contributions, reflecting a commitment to excellence and a relentless pursuit of technological advancement.
+
+My strength lies in translating complex technical concepts into actionable strategies that align with business objectives. I take a collaborative approach, working closely with cross-functional teams to understand their unique requirements and craft tailored solutions that deliver tangible value.
 
 ## 🛠 &nbsp;Tech Stack
 

@@ -48,11 +48,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 ## Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=EashanKaushik.EashanKaushik)
 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Machine Learning
-- ✍️ I actively write blogs on Medium
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me on Eashank16@gmail.com
-- 📝 You can check out my experience on [Resume]()
 
 ## 📈 **My GitHub Stats:**
 <p>
